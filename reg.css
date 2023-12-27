@@ -1,0 +1,63 @@
+.center-content {
+	display:flex;
+	justify-content:center;
+	align-items:center;
+}
+
+.header {
+	font-size: 30px;
+	font-weight: bold;
+}
+
+body {
+	position: relative;
+	font-family: Calibri;
+}
+
+.main-div {
+	margin: auto;
+	border: 1px solid black;
+	padding: 30px;
+}
+
+#regForm {
+	width:400px;
+}
+
+#loginForm {
+	width:200px;
+}
+
+.main-div div {
+	display: inline-block;
+	margin: 10px;
+}
+
+.main-div div:last-child {
+	display:flex;	
+	padding-top: 20px;
+}
+
+.main-div label span {
+	color:red;
+}
+
+input[type="submit"] {
+	padding:7px 25px 7px 25px;
+	font-size:15px;
+}
+
+#userTable {
+	width: 100%;
+	border-collapse: collapse;
+}
+
+#userTable th {
+	border:2px solid black;
+	padding: 6px;
+}
+
+#userTable td {
+	text-align: center;
+	padding: 3px;
+}
