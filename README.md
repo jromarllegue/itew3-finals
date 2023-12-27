@@ -1,16 +1,16 @@
 sa phpmyadmin lagay ka ng database eto yung info 
-
-db name: db_lab6
+<br><br>
+db name: db_lab6<br>
 table name: tbl_users
-
-columns (10):
-userId - int 11, primary (nasa index makikita yung primary)
-firstName - varchar 255
-lastName - varchar 255
-middleInitial varchar 255
-age - int 4
-contactNo - bigint 15 
-email - varchar 255
-address - varchar 255
-username - varchar 255
-password - varchar 255
+<br>
+<br>columns (10):
+<br>userId - int 11, primary (nasa index makikita yung primary)
+<br>firstName - varchar 255
+<br>lastName - varchar 255
+<br>middleInitial varchar 255
+<br>age - int 4
+<br>contactNo - bigint 15 
+<br>email - varchar 255
+<br>address - varchar 255
+<br>username - varchar 255
+<br>password - varchar 255
